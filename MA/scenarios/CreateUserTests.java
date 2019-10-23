@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 import static test_resource.TextResource.*;
 
 public class CreateUserTests extends ScenarioBase{
-    @Test(description = "MA001_Create a new valid user",
+    @Test(description = "MA001 Create a new valid user",
             groups = {"backend", "user", "P1"})
     public void CreateNewUserTest(){
         //Step 1: Login to backend page
