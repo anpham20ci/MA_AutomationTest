@@ -1,0 +1,14 @@
+{
+  "Browser": "FirefoxDriver",
+  "ElementTimeout": 20,
+  "PageTimeout": 120,
+  "ScriptTimeout": 60,
+
+
+  "SiteRootUrl": "https://moveralerts.demo.ominor.com/",
+  "BackendPath": "https://moveralerts.demo.ominor.com/admin/",
+  "User": "",
+  "Password": "",
+  "BackendUser": "superadmin@localhost.com",
+  "BackendPassword": "12345678"
+}
