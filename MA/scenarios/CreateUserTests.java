@@ -20,6 +20,8 @@ public class CreateUserTests extends ScenarioBase{
 
         //Step 4: Press Submit button
         getBackend().getCreateNewUserView().submit();
+
+        //test commit from Git kraken
     }
 
 }
